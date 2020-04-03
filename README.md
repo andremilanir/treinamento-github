@@ -1,3 +1,3 @@
 # treinamento-github
 
-## versão do repositório local
+## versão do repositório remoto
